@@ -9,12 +9,11 @@ It's fine, but it can get tedious after a while.
 So with this add-on, I hope to make those processes just a little, tiny bit easier.
 
 Open the sidebar, click **Comparable**, select two objects, and press the switch button, simple as.
-
-![An animated gif showing the use of and addon in Blender sidebar panel](https://github.com/user-attachments/assets/53f71c8e-7fed-49e9-b459-090a4430e68d)
+![An animated gif showing the use of an addon in Blender sidebar panel](https://github.com/user-attachments/assets/5e6b2d0c-4ce1-4810-a7f7-c6f2b60f0149)
 
 or collections.
+![An animated gif showing the use of an addon in Blender sidebar panel](https://github.com/user-attachments/assets/1ecced3f-6c1e-444b-8c82-3b5c5270ff29)
 
-![An animated gif showing the use of and addon in Blender sidebar panel](https://github.com/user-attachments/assets/e817683b-4db4-4bb0-951f-c03caa9ebd1f)
 
 ## Features & Options
 
@@ -31,10 +30,11 @@ or collections.
       ![Comparable Demo_Tile_Reset button](https://github.com/user-attachments/assets/72f86c07-4d21-4b4e-8cd5-168a00b67582)
 
     - Affect render  
-      An option to affect the objects or collections render visibilty.  
+      An option to affect the render visibility of objects or collections.  
       This option will only take effect when you press the Switch button after you enable this option.  
       When enabled, the Reset button will also reset both objects or collections render visibility the same way it resets the viewport visibility.
-      ![Comparable Demo_Affect Render](https://github.com/user-attachments/assets/fe5f08ea-1277-4a7c-b566-70b3c1a30df9)
+      ![Comparable Demo_Affect Render](https://github.com/user-attachments/assets/6177dbf5-570b-41e6-9d61-13f52c9641c5)
+
 
 2. **Preferences**
     - Keymaps  
