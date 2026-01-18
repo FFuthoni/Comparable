@@ -1,2 +1,47 @@
 # Comparable
-Blender add-on to compare two similar objects or collections
+Compare two, ideally similar, almost identical objects or collections in one click.
+
+Imagine a scenario where you are modelling or sculpting, and you are about to make changes that you are not sure about yet, or you want to make an alternate version of your object, or you just like your current progress so much that you don't want to lose it.  
+So you duplicate your object as a backup and continue working.  
+Afterward, since you have made a backup, you want to see how different your new model is compared to the old one.  
+You hide one object and show the other, hide one object and show the other, hide one object and show the other, and so on.  
+It's fine, but it can get tedious after a while.  
+So with this add-on, I hope to make those processes just a little, tiny bit easier.
+
+Open the sidebar, click **Comparable**, select two objects, and press the switch button, simple as.
+
+![An animated gif showing the use of and addon in Blender sidebar panel](https://github.com/user-attachments/assets/53f71c8e-7fed-49e9-b459-090a4430e68d)
+
+or collections.
+
+![An animated gif showing the use of and addon in Blender sidebar panel](https://github.com/user-attachments/assets/e817683b-4db4-4bb0-951f-c03caa9ebd1f)
+
+## Features & Options
+
+1. **Sidebar panel**
+    - Switch button, obviously  
+      Switch between the two objects or collections.  
+      Two **different** objects or collections need to be selected first for the button to be functional.
+      ![Comparable Demo_Tile_Switch button](https://github.com/user-attachments/assets/e4b996cf-2093-4a76-88d8-5a4cd0c7acdb)
+        
+    - Reset button  
+      Reset both selected objects or collections to be visible.  
+      The reset button does not take into account the objects or collections' visibility prior to the comparison and will just set all to be visible.  
+      Two **different** objects or collections also need to be selected first for the button to be functional.
+      ![Comparable Demo_Tile_Reset button](https://github.com/user-attachments/assets/72f86c07-4d21-4b4e-8cd5-168a00b67582)
+
+    - Affect render  
+      An option to affect the objects or collections render visibilty.  
+      This option will only take effect when you press the Switch button after you enable this option.  
+      When enabled, the Reset button will also reset both objects or collections render visibility the same way it resets the viewport visibility.
+      ![Comparable Demo_Affect Render](https://github.com/user-attachments/assets/fe5f08ea-1277-4a7c-b566-70b3c1a30df9)
+
+2. **Preferences**
+    - Keymaps  
+      There are four configurable keymaps for each button. Although they are deactivated by default to avoid conflict with your setup.  
+      You can change them to your liking.
+      ![Comparable Demo_Keymaps](https://github.com/user-attachments/assets/082362ef-0e7d-4dbd-bc65-afedd59bc2ff)
+
+   - Sidebar category  
+      You can change the sidebar category to whichever category you like. Either an existing one or a custom one.
+      ![Comparable Demo_Sidebar category](https://github.com/user-attachments/assets/b944e6f5-2fc5-4b3e-b389-03dfc1fa17e0)
