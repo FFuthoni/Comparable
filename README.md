@@ -32,7 +32,7 @@ or collections.
     - Affect render  
       An option to affect the render visibility of objects or collections.  
       This option will only take effect when you press the Switch button after you enable this option.  
-      When enabled, the Reset button will also reset both objects or collections render visibility the same way it resets the viewport visibility.
+      When enabled, the Reset button will also reset both objects or collections render visibility the same way it resets the viewport visibility.  
       ![Comparable Demo_Affect Render](https://github.com/user-attachments/assets/6177dbf5-570b-41e6-9d61-13f52c9641c5)
 
 
