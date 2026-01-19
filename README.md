@@ -57,5 +57,5 @@ _Please be aware that these results were based on my limited tests in the time t
 3. *... _4.2x.zip* -> for Blender version 4.2 or later. This version also complies with the new Blender extension guideline.
 
 ## Installation
-- From the [release page](https://github.com/FFuthoni/Comparable/releases)
-- From the Blender Extension website. (TBA)
+- Download from the [release page](https://github.com/FFuthoni/Comparable/releases)
+- Download from the Blender Extension website. (TBA)
