@@ -1,5 +1,8 @@
 # Comparable
+
 Compare two, ideally similar, almost identical objects or collections in one click.
+
+## Overview
 
 Imagine a scenario where you are modelling or sculpting, and you are about to make changes that you are not sure about yet, or you want to make an alternate version of your object, or you just like your current progress so much that you don't want to lose it.  
 So you duplicate your object as a backup and continue working.  
@@ -8,7 +11,7 @@ You hide one object and show the other, hide one object and show the other, hide
 It's fine, but it can get tedious after a while.  
 So with this add-on, I hope to make those processes just a little, tiny bit easier.
 
-Open the sidebar, click **Comparable**, select two objects, and press the switch button, simple as.
+Open the sidebar, click **Comparable**, select two objects, and press the switch button, simple as that.
 ![An animated gif showing the use of an addon in Blender sidebar panel](https://github.com/user-attachments/assets/5e6b2d0c-4ce1-4810-a7f7-c6f2b60f0149)
 
 or collections.
@@ -38,10 +41,13 @@ or collections.
 
 2. **Preferences**
     - Keymaps  
-      There are four configurable keymaps for each button. Although they are deactivated by default to avoid conflict with your setup.  
+      There are four configurable keymaps for each button. However, they are deactivated by default to avoid conflict with your setup.  
       You can change them to your liking.
       ![Comparable Demo_Keymaps](https://github.com/user-attachments/assets/082362ef-0e7d-4dbd-bc65-afedd59bc2ff)
 
    - Sidebar category  
-      You can change the sidebar category to whichever category you like. Either an existing one or a custom one.
+      You can change the sidebar category to whichever category you like—either an existing one or a custom one.
       ![Comparable Demo_Sidebar category](https://github.com/user-attachments/assets/b944e6f5-2fc5-4b3e-b389-03dfc1fa17e0)
+
+## Compatibility
+There are three main files included in the release page for each Blender version you are using.
