@@ -50,12 +50,12 @@ or collections.
       ![Comparable Demo_Sidebar category](https://github.com/user-attachments/assets/b944e6f5-2fc5-4b3e-b389-03dfc1fa17e0)
 
 ## Compatibility
-There are three main files included in the [release page](https://github.com/FFuthoni/Comparable/releases) for each Blender version you are using.
+There are three main files included in the [release page](https://github.com/FFuthoni/Comparable/releases) for each Blender version you are using.  
 _Please be aware that these results were based on my limited tests in the time that I had available. Thanks for your understanding._
-1. *... _2.8x.zip* -> for Blender version 2.8 or later. Up to 2.93.
-2. *... _3.0x.zip* -> for Blender version 3.0 or later. Up to 4.1.
-3. *... _4.2x.zip* -> for Blender version 4.2 or later. This version also complies with the new Blender extension guideline.
+1. *... _2.8x.zip* -> for Blender version 2.8 and newer. Up to 2.93.
+2. *... _3.0x.zip* -> for Blender version 3.0 and newer. Up to 4.1.
+3. *... _4.2x.zip* -> for Blender version 4.2 and newer. This version also complies with the new Blender extension guideline.
 
 ## Installation
 - Download from the [release page](https://github.com/FFuthoni/Comparable/releases)
-- Download from the Blender Extension website. (TBA)
+- Download from the Blender Extension website. [Currently under approval queue](https://extensions.blender.org/approval-queue/comparable/)
