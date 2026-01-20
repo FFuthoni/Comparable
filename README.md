@@ -37,17 +37,12 @@ or collections.
           This option will only take effect when you press the Switch button after you enable this option.  
           When enabled, the Reset button will also reset both objects or collections render visibility the same way it resets the viewport visibility.  
           ![Comparable Demo_Affect Render](https://github.com/user-attachments/assets/6177dbf5-570b-41e6-9d61-13f52c9641c5)
-
-
+         
 2. **Preferences**
-    - Keymaps  
-          There are four configurable keymaps for each button. However, they are deactivated by default to avoid conflict with your setup.  
-          You can change them to your liking.
-          ![Comparable Demo_Keymaps](https://github.com/user-attachments/assets/082362ef-0e7d-4dbd-bc65-afedd59bc2ff)
-
    - Sidebar category  
-          You can change the sidebar category to whichever category you like—either an existing one or a custom one.
-          ![Comparable Demo_Sidebar category](https://github.com/user-attachments/assets/b944e6f5-2fc5-4b3e-b389-03dfc1fa17e0)
+          You can change the sidebar category to whichever category you like, either an existing one or a custom one.  
+          ![Comparable Demo_Sidebar category](https://github.com/user-attachments/assets/07b0fc94-2249-44b6-92bc-86fb0efe16c8)
+     
 
 ## Compatibility
 There are three main files included in the [release page](https://github.com/FFuthoni/Comparable/releases) for each Blender version you are using.  
