@@ -53,4 +53,4 @@ _Please be aware that these results were based on my limited tests in the time t
 
 ## Installation
 - Download from the [release page](https://github.com/FFuthoni/Comparable/releases)
-- Download from the Blender Extension website. [Awaiting approval queue](https://extensions.blender.org/approval-queue/comparable/)
+- Download from the [Blender Extension Platform](https://extensions.blender.org/add-ons/comparable/).
